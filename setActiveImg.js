@@ -4,6 +4,7 @@
  *(c) Gavin1990 2015 (@gavin1990)
  * @return {function}      setActiveImg 
  */
+
 ;(function($, window, document,undefined) {
 	$.fn.setActiveImg = function(){
 		var _self = this;
